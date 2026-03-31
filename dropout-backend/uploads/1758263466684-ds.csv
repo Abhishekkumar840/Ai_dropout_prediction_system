@@ -1,0 +1,101 @@
+Roll No,Registration No,Name,Age,Gender,District,College Type,Parent Education,Family Income,Attendance %,Test1,Test2,Test3,Test4,Test5,Grade %,Backlogs,Fees Due,Counselling Required,Dropout Risk
+2021001,REG001,Amit Kumar,20,Male,Jaipur,Government,Graduate,50000,85,78,82,75,80,79,79.2,0,0,No,Low
+2021002,REG002,Priya Sharma,19,Female,Udaipur,Private,Post Graduate,80000,88,90,85,88,92,87,88.6,0,0,No,Low
+2021003,REG003,Sneha Gupta,20,Female,Kota,Private,Graduate,60000,90,85,88,92,87,85,87.4,0,0,No,Low
+2021004,REG004,Rahul Singh,21,Male,Jodhpur,Government,Graduate,55000,82,80,78,85,83,81,81.4,0,2000,No,Low
+2021005,REG005,Anita Verma,19,Female,Alwar,Government,Graduate,45000,86,75,78,82,76,74,77.0,0,0,No,Low
+2021006,REG006,Ravi Agarwal,21,Male,Bikaner,Private,Post Graduate,75000,84,88,82,86,90,88,86.8,0,0,No,Low
+2021007,REG007,Pooja Jain,20,Female,Ajmer,Private,Graduate,70000,89,90,85,88,92,87,88.4,0,0,No,Low
+2021008,REG008,Suresh Yadav,22,Male,Sikar,Government,Graduate,48000,83,78,82,80,84,82,81.6,0,1500,No,Low
+2021009,REG009,Kavita Kumari,19,Female,Pali,Government,Graduate,52000,87,85,83,88,86,84,85.2,0,0,No,Low
+2021010,REG010,Deepak Sharma,20,Male,Bharatpur,Government,Post Graduate,65000,91,88,90,92,89,87,89.2,0,0,No,Low
+2021011,REG011,Neha Agarwal,21,Female,Churu,Private,Graduate,58000,85,82,80,84,86,83,83.0,0,0,No,Low
+2021012,REG012,Vikram Singh,22,Male,Ganganagar,Government,Graduate,49000,88,85,87,89,91,88,87.6,0,1000,No,Low
+2021013,REG013,Ritika Jain,19,Female,Hanumangarh,Private,Post Graduate,72000,92,90,88,94,92,90,91.2,0,0,No,Low
+2021014,REG014,Arjun Meena,20,Male,Dausa,Government,Graduate,51000,84,80,82,85,83,81,82.2,0,0,No,Low
+2021015,REG015,Simran Kaur,21,Female,Jhunjhunu,Private,Graduate,63000,86,84,85,87,89,86,86.2,0,0,No,Low
+2021016,REG016,Rohit Gupta,22,Male,Rajsamand,Government,Post Graduate,56000,89,87,85,90,88,86,87.0,0,500,No,Low
+2021017,REG017,Priyanka Sharma,19,Female,Sawai Madhopur,Private,Graduate,68000,87,85,88,86,90,87,86.6,0,0,No,Low
+2021018,REG018,Manish Kumar,20,Male,Tonk,Government,Graduate,47000,85,82,84,86,88,85,85.0,0,0,No,Low
+2021019,REG019,Anjali Verma,21,Female,Bundi,Government,Graduate,53000,88,86,84,89,87,85,85.8,0,0,No,Low
+2021020,REG020,Karan Singh,22,Male,Barmer,Private,Post Graduate,71000,90,88,89,91,93,90,90.2,0,0,No,Low
+2021021,REG021,Divya Jain,19,Female,Jalore,Private,Graduate,59000,84,81,83,85,87,84,84.0,0,0,No,Low
+2021022,REG022,Aman Sharma,20,Male,Sirohi,Government,Graduate,46000,86,83,85,87,89,86,86.0,0,1200,No,Low
+2021023,REG023,Sonia Gupta,21,Female,Dungarpur,Government,Graduate,54000,88,85,87,89,91,88,87.6,0,0,No,Low
+2021024,REG024,Nikhil Agarwal,22,Male,Banswara,Private,Post Graduate,66000,91,89,88,92,90,88,89.6,0,0,No,Low
+2021025,REG025,Ritu Sharma,19,Female,Pratapgarh,Government,Graduate,48500,87,84,86,88,90,87,87.0,0,0,No,Low
+2021026,REG026,Ashish Kumar,20,Male,Chittorgarh,Government,Graduate,52500,85,82,84,86,88,85,85.0,0,800,No,Low
+2021027,REG027,Megha Verma,21,Female,Karauli,Private,Graduate,61000,89,87,85,90,88,86,87.0,0,0,No,Low
+2021028,REG028,Sachin Singh,22,Male,Dholpur,Government,Post Graduate,57000,88,86,87,89,91,88,87.8,0,0,No,Low
+2021029,REG029,Preeti Jain,19,Female,Baran,Private,Graduate,64000,90,88,89,91,93,90,90.2,0,0,No,Low
+2021030,REG030,Gaurav Sharma,20,Male,Jhalawar,Government,Graduate,49500,86,83,85,87,89,86,86.0,0,600,No,Low
+2021031,REG031,Nisha Agarwal,21,Female,Kota,Private,Graduate,67000,87,85,86,88,90,87,87.2,0,0,No,Low
+2021032,REG032,Raman Kumar,22,Male,Udaipur,Government,Post Graduate,55500,89,87,88,90,92,89,89.0,0,0,No,Low
+2021033,REG033,Shruti Verma,19,Female,Jaipur,Private,Graduate,62000,88,86,87,89,91,88,87.8,0,0,No,Low
+2021034,REG034,Vishal Singh,20,Male,Jodhpur,Government,Graduate,50500,85,82,84,86,88,85,85.0,0,1400,No,Low
+2021035,REG035,Pallavi Jain,21,Female,Alwar,Government,Graduate,56500,87,84,86,88,90,87,87.0,0,0,No,Low
+2021036,REG036,Rajesh Sharma,22,Male,Bikaner,Private,Post Graduate,69000,90,88,89,91,93,90,90.2,0,0,No,Low
+2021037,REG037,Sunita Gupta,19,Female,Ajmer,Government,Graduate,48000,86,83,85,87,89,86,86.0,0,0,No,Low
+2021038,REG038,Mohan Kumar,20,Male,Sikar,Government,Graduate,51500,88,85,87,89,91,88,87.6,0,900,No,Low
+2021039,REG039,Rekha Verma,21,Female,Pali,Private,Graduate,58500,87,85,86,88,90,87,87.2,0,0,No,Low
+2021040,REG040,Arun Singh,22,Male,Bharatpur,Government,Post Graduate,54500,89,87,88,90,92,89,89.0,0,0,No,Low
+2021041,REG041,Geeta Jain,19,Female,Churu,Private,Graduate,63500,88,86,87,89,91,88,87.8,0,0,No,Low
+2021042,REG042,Sunil Sharma,20,Male,Ganganagar,Government,Graduate,47500,85,82,84,86,88,85,85.0,0,1100,No,Low
+2021043,REG043,Mamta Agarwal,21,Female,Hanumangarh,Government,Graduate,53500,87,84,86,88,90,87,87.0,0,0,No,Low
+2021044,REG044,Dinesh Kumar,22,Male,Dausa,Private,Post Graduate,65500,90,88,89,91,93,90,90.2,0,0,No,Low
+2021045,REG045,Sushma Verma,19,Female,Jhunjhunu,Government,Graduate,49000,86,83,85,87,89,86,86.0,0,0,No,Low
+2021046,REG046,Rajeev Singh,20,Male,Rajsamand,Government,Graduate,52000,88,85,87,89,91,88,87.6,0,700,No,Low
+2021047,REG047,Vandana Jain,21,Female,Sawai Madhopur,Private,Graduate,59500,87,85,86,88,90,87,87.2,0,0,No,Low
+2021048,REG048,Ramesh Sharma,22,Male,Tonk,Government,Post Graduate,56000,89,87,88,90,92,89,89.0,0,0,No,Low
+2021049,REG049,Seema Gupta,19,Female,Bundi,Private,Graduate,61500,88,86,87,89,91,88,87.8,0,0,No,Low
+2021050,REG050,Ajay Kumar,20,Male,Barmer,Government,Graduate,48500,85,82,84,86,88,85,85.0,0,1300,No,Low
+2021051,REG051,Ravi Kumar,20,Male,Jalore,Government,12th Pass,32000,68,65,60,70,68,65,65.2,1,8000,Yes,Medium
+2021052,REG052,Sunita Sharma,21,Female,Sirohi,Private,Graduate,42000,72,70,68,74,72,70,70.4,0,4000,No,Medium
+2021053,REG053,Manoj Singh,22,Male,Dungarpur,Government,10th Pass,28000,65,62,58,68,65,62,64.0,2,12000,Yes,Medium
+2021054,REG054,Asha Verma,19,Female,Banswara,Government,12th Pass,35000,70,68,65,72,70,68,68.6,1,6000,Yes,Medium
+2021055,REG055,Vinod Kumar,20,Male,Pratapgarh,Private,Graduate,38000,74,72,70,76,74,72,72.8,0,3000,No,Medium
+2021056,REG056,Mala Jain,21,Female,Chittorgarh,Government,12th Pass,30000,67,64,62,69,67,64,65.4,1,9000,Yes,Medium
+2021057,REG057,Ramesh Kumar,22,Male,Karauli,Government,10th Pass,26000,63,60,58,65,63,60,61.8,2,15000,Yes,Medium
+2021058,REG058,Kamala Sharma,19,Female,Dholpur,Private,Graduate,40000,73,71,69,75,73,71,71.6,0,5000,No,Medium
+2021059,REG059,Sanjay Singh,20,Male,Baran,Government,12th Pass,33000,69,66,64,71,69,66,67.0,1,7000,Yes,Medium
+2021060,REG060,Urmila Gupta,21,Female,Jhalawar,Government,Graduate,41000,75,73,71,77,75,73,73.8,0,2000,No,Medium
+2021061,REG061,Mukesh Kumar,22,Male,Kota,Private,12th Pass,36000,66,63,61,68,66,63,64.2,1,8500,Yes,Medium
+2021062,REG062,Savita Verma,19,Female,Udaipur,Government,Graduate,39000,72,69,67,74,72,69,70.2,0,4500,No,Medium
+2021063,REG063,Brijesh Singh,20,Male,Jaipur,Government,10th Pass,27000,64,61,59,66,64,61,63.0,2,13000,Yes,Medium
+2021064,REG064,Poonam Jain,21,Female,Jodhpur,Private,12th Pass,34000,71,68,66,73,71,68,69.2,1,6500,Yes,Medium
+2021065,REG065,Rajendra Kumar,22,Male,Alwar,Government,Graduate,43000,76,74,72,78,76,74,74.8,0,1000,No,Medium
+2021066,REG066,Shanti Sharma,19,Female,Bikaner,Government,12th Pass,31000,68,65,63,70,68,65,65.8,1,8000,Yes,Medium
+2021067,REG067,Gopal Singh,20,Male,Ajmer,Private,10th Pass,25000,62,59,57,64,62,59,60.6,2,16000,Yes,Medium
+2021068,REG068,Radha Gupta,21,Female,Sikar,Government,Graduate,44000,77,75,73,79,77,75,75.6,0,500,No,Medium
+2021069,REG069,Harish Kumar,22,Male,Pali,Government,12th Pass,37000,70,67,65,72,70,67,68.2,1,7500,Yes,Medium
+2021070,REG070,Lata Verma,19,Female,Bharatpur,Private,Graduate,45000,78,76,74,80,78,76,76.4,0,0,No,Medium
+2021071,REG071,Suresh Kumar,20,Male,Churu,Government,12th Pass,29000,65,62,60,67,65,62,64.2,1,10000,Yes,Medium
+2021072,REG072,Kiran Jain,21,Female,Ganganagar,Government,Graduate,42000,74,71,69,76,74,71,73.0,0,3500,No,Medium
+2021073,REG073,Yogesh Singh,22,Male,Hanumangarh,Private,10th Pass,24000,61,58,56,63,61,58,59.4,2,17000,Yes,Medium
+2021074,REG074,Meera Sharma,19,Female,Dausa,Government,12th Pass,32500,69,66,64,71,69,66,67.0,1,7000,Yes,Medium
+2021075,REG075,Anil Kumar,20,Male,Jhunjhunu,Government,Graduate,46000,79,77,75,81,79,77,77.6,0,0,No,Medium
+2021076,REG076,Vikash Meena,22,Male,Bharatpur,Government,10th Pass,25000,45,40,50,35,45,42,43.2,2,15000,Yes,High
+2021077,REG077,Roshni Kumari,19,Female,Alwar,Government,12th Pass,22000,38,35,40,42,38,36,37.8,3,18000,Yes,High
+2021078,REG078,Mahesh Singh,21,Male,Sikar,Private,10th Pass,20000,42,45,38,40,44,41,42.0,2,20000,Yes,High
+2021079,REG079,Geeta Kumari,20,Female,Churu,Government,8th Pass,18000,35,32,38,36,34,33,34.6,3,22000,Yes,High
+2021080,REG080,Ramesh Meena,22,Male,Ganganagar,Government,10th Pass,24000,48,44,46,50,48,45,46.2,2,14000,Yes,High
+2021081,REG081,Sita Devi,19,Female,Hanumangarh,Government,8th Pass,16000,32,30,35,33,31,29,32.0,4,25000,Yes,High
+2021082,REG082,Dinesh Meena,21,Male,Dausa,Government,10th Pass,21000,41,38,43,39,42,40,40.6,3,17000,Yes,High
+2021083,REG083,Radha Kumari,20,Female,Jhunjhunu,Government,8th Pass,17000,36,34,39,37,35,33,34.8,3,21000,Yes,High
+2021084,REG084,Suresh Meena,22,Male,Rajsamand,Government,10th Pass,23000,47,43,45,49,47,44,45.0,2,16000,Yes,High
+2021085,REG085,Kamla Devi,19,Female,Sawai Madhopur,Government,8th Pass,19000,33,31,36,34,32,30,31.2,4,24000,Yes,High
+2021086,REG086,Mohan Meena,21,Male,Tonk,Government,10th Pass,22500,44,41,43,46,44,42,44.0,2,15500,Yes,High
+2021087,REG087,Sushila Kumari,20,Female,Bundi,Government,8th Pass,15000,30,28,33,31,29,27,29.6,4,26000,Yes,High
+2021088,REG088,Bajrang Singh,22,Male,Barmer,Government,10th Pass,26000,49,46,48,51,49,47,48.0,1,13000,Yes,High
+2021089,REG089,Mina Devi,19,Female,Jalore,Government,8th Pass,14000,29,27,32,30,28,26,28.4,5,28000,Yes,High
+2021090,REG090,Kailash Meena,21,Male,Sirohi,Government,10th Pass,20500,43,40,42,45,43,41,42.8,3,18500,Yes,High
+2021091,REG091,Parvati Kumari,20,Female,Dungarpur,Government,8th Pass,13000,27,25,30,28,26,24,26.0,5,30000,Yes,High
+2021092,REG092,Girdhari Singh,22,Male,Banswara,Government,10th Pass,21500,46,43,45,48,46,44,45.2,2,17500,Yes,High
+2021093,REG093,Shanti Devi,19,Female,Pratapgarh,Government,8th Pass,12000,26,24,29,27,25,23,24.8,5,32000,Yes,High
+2021094,REG094,Laxman Meena,21,Male,Chittorgarh,Government,10th Pass,19500,40,37,39,42,40,38,39.2,3,19500,Yes,High
+2021095,REG095,Rukmani Devi,20,Female,Karauli,Government,8th Pass,11000,24,22,27,25,23,21,22.4,6,35000,Yes,High
+2021096,REG096,Hanuman Singh,22,Male,Dholpur,Government,10th Pass,18000,39,36,38,41,39,37,38.0,3,20000,Yes,High
+2021097,REG097,Champa Devi,19,Female,Baran,Government,8th Pass,10000,22,20,25,23,21,19,20.0,6,38000,Yes,High
+2021098,REG098,Gopal Meena,21,Male,Jhalawar,Government,10th Pass,17500,37,34,36,39,37,35,36.6,3,21500,Yes,High
+2021099,REG099,Tulsi Devi,20,Female,Kota,Government,8th Pass,9000,20,18,23,21,19,17,17.6,7,40000,Yes,High
+2021100,REG100,Babu Lal,22,Male,Udaipur,Government,10th Pass,16000,35,32,34,37,35,33,34.2,4,23000,Yes,High
